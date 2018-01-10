@@ -1,12 +1,10 @@
 
 
 class Dog
-  def Dog
-  end
 end
 
-fido = dog.new
+fido = Dog.new
 
-snoopy = dog. new
+snoopy = Dog. new
 
-lassie = dog.new
+lassie = Dog.new
